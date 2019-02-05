@@ -1,0 +1,146 @@
+h1 {
+	font-family: "Raleway", sans-serif;
+	font-weight: 400;
+	//*color: #0d2c40;*//
+	color: red;
+	letter-spacing: 1px;
+	font-size: 45px;
+	margin: 0;
+}
+
+h3	{
+	font-family: "Raleway", sans-serif;
+	color: #0d2c40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+}
+
+.navitem	{
+	font-family: "Raleway", sans-serif;
+	color: #f15b31;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+	text-decoration: none;
+	margin: 0px 20px 0px 20px;
+}
+
+h2	{
+	font-family: "Raleway", sans-serif;
+	color: #0d2c40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+
+}
+
+p {
+	font-family: "Droid Serif", serif;
+}
+
+body {
+	text-align: center;
+	margin: 0;
+}
+
+
+h1, h2, h3 {
+	text-transform: uppercase;
+
+}
+
+header	{
+	background-color: #f15B31;
+	color: #ffffff;
+	padding: 30px 20px 30px 20px;
+}
+
+nav	{
+	background-color: #00a6b3;
+	color: #ffffff;
+	padding: 20px 0px 20px 0px;
+}
+
+main {
+	width: 850px;
+	margin: 35px auto 35px auto;
+}
+
+img	{
+	margin: 40px 8px 40px 8px;
+}
+
+
+footer	{
+	text-transform: uppercase;
+	padding: 0px 20px 0px 20px;
+	background-color: #0d2c40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+}
+
+.copyright	{
+	font-family: "Raleway", sans-serif;
+	float: left;
+}
+
+.message	{
+	font-family: "Raleway", sans-serif;
+	float: right;
+}
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
+}
+
+.name {
+	color: #f15b31;
+	font-weight: 700;
+}
+
+a {
+	border-bottom: 2px solid transparent;
+}
+
+a:hover	{
+	border-color: white;
+
+}
+/*style the social icons*/
+
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-github {
+  background: #333;
+  color: white;
+}
+.fa-linkedin {
+  background: #4875B4;
+  color: white;
+}
+.social {
+  margin-top: 10px;
+  margin-bottom: 10px;
